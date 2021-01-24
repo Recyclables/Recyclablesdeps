@@ -1,4 +1,10 @@
 # wheel_dependencies
-Windows wheels for the dependencies
+For windows only
 
-Ensure you are running python 3.8.x in ur venv
+## Windows
+
+Ensure you are running python 3.8.x in ur venv. Run the following for all whl files.
+
+```python
+pip install the_whl_file
+```
